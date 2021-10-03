@@ -1,6 +1,6 @@
 # ML Fake news Scikit-learn Python
 
-The algorithm is ML Supervised Learning, can detect a fake news using the dataset news.csv to train and test. At the end, it lunch a Confusion matrix, that allows visualization of the algorithm's performance.
+The algorithm is a ML Supervised Learning, can detect a fake news using the dataset news.csv to train and test. At the end, it lunch a Confusion matrix, that allows visualization of the algorithm's performance.
 
 ##Technologies
 
